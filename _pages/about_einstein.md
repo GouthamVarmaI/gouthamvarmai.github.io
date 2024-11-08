@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+👋 Hi! I'm Goutham, a Machine Learning researcher and MS AI student at the University of Aberdeen. I'm fascinated by the potential of AI in healthcare and am currently working on developing privacy-preserving ML systems and foundation models for clinical applications.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+As an Open Research Advisor at Aberdeen, I build automated systems for research analytics while exploring ways to make AI more accessible and ethical. I'm particularly excited about Large Language Models, multi-modal AI systems, and their applications in healthcare. Recently, I've been selected as a KaggleX Fellow, where I'm working on mental health counseling systems using foundation models.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests span from privacy-preserving neural architectures (which I explored during my time at La Trobe University) to clinical trial analysis using AI. When I'm not coding or reading papers, you can find me tinkering with new ML architectures or contributing to open-source projects.
+
+Want to chat about AI, research, or potential collaborations? Feel free to reach out!
